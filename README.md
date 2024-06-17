@@ -1,8 +1,16 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Space App
 
-Currently, two official plugins are available:
+Space App é uma aplicação web desenvolvida com React e Vite, que exibe uma galeria de fotos do espaço. Este projeto foi realizado em parceria com a Alura, com o objetivo de proporcionar uma experiência prática de desenvolvimento front-end utilizando tecnologias modernas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Visão Geral
+
+Este projeto tem como objetivo fornecer uma galeria de imagens do espaço, permitindo aos usuários explorar fotos impressionantes do cosmos. A aplicação utiliza a estrutura React para a construção de componentes reutilizáveis e Vite para o desenvolvimento e construção rápida do projeto.
+
+## Funcionalidades
+
+- Exibição de uma galeria de fotos do espaço.
+- Opção de favoritar imagens.
+- Realizar zoom nas imagens utilizando modal.
+- Layout responsivo que se adapta a diferentes tamanhos de tela.
+- Navegação fácil e intuitiva pelas imagens.
